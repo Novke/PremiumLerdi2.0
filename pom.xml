@@ -8,7 +8,7 @@
         <version>3.4.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>gfs.webp</groupId>
+    <groupId>tri.novica</groupId>
     <artifactId>YTLerdi</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>YTLerdi</name>
